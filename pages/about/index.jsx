@@ -1,5 +1,5 @@
 import React from 'react'
-import Loginform from './Loginform'
+import Loginform from '../../Components/Loginform'
 import { useState } from 'react'
 
 function index() {
